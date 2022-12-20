@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block title %}Search page{% endblock %}
+{% block content %}
+<h2>Search page</h2>
+You can search for shit here.
+<form action="/result" method="POST">
+    County to search for:
+    <input type="text" name="county">
+    <br>
+    Minimum vaccination rate:
+    <input type="text" name="vaccinationRate">
+    <br>
+    <input type="submit" value="Lähetä">
+    </form>
+{% endblock %}

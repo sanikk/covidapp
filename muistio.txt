@@ -1,0 +1,17 @@
+vaccinations
+# Date,FIPS,MMWR_week,Recip_County,Recip_State,Series_Complete_Pop_Pct,Series_Complete_Yes,Series_Complete_12Plus,
+# Series_Complete_12PlusPop_Pct,Series_Complete_18Plus,Series_Complete_18PlusPop_Pct,Series_Complete_65Plus,
+# Series_Complete_65PlusPop_Pct,Completeness_pct,Administered_Dose1_Recip,Administered_Dose1_Pop_Pct,
+# Administered_Dose1_Recip_12Plus,Administered_Dose1_Recip_12PlusPop_Pct,Administered_Dose1_Recip_18Plus,
+# Administered_Dose1_Recip_18PlusPop_Pct,Administered_Dose1_Recip_65Plus,Administered_Dose1_Recip_65PlusPop_Pct,
+# SVI_CTGY,Series_Complete_Pop_Pct_SVI,Series_Complete_12PlusPop_Pct_SVI,Series_Complete_18PlusPop_Pct_SVI,
+# Series_Complete_65PlusPop_Pct_SVI
+
+
+
+#09/01/2021,51145,35,Powhatan County,VA,1.6,472,472,1.8,468,1.9,239,4.2,51.3,557,1.9,557,2.1,550,2.3,267,4.7,Low,Low VC/Low SVI,Low VC/Low SVI,Low VC/Low SVI,Low VC/Low SVI
+#3. nimi, 5. prosentti täysin rokotettuja, 6 miinus 7 on rokotetut alle 12 vuotiaat
+
+
+cases
+#0UID,1iso2,2iso3,3code3,4FIPS,5Admin2,6Province_State,7Country_Region,8Lat,9Long_,10Combined_Key,(11)1/22/20,1/23/20,...,(608)9/8/21
